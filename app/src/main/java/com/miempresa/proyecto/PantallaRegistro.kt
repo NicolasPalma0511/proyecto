@@ -65,7 +65,7 @@ fun PantallaRegistro(navController: NavController) {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text(
-                text = "Cocktail",
+                text = "Cocktails",
                 style = TextStyle(
                     fontSize = 40.sp,
                     fontFamily = FontFamily.Monospace
