@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685846106846",
+    "project_id": "proyecto-beee2",
+    "storage_bucket": "proyecto-beee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685846106846:android:ad71303ff827e0a2cb284f",
+        "android_client_info": {
+          "package_name": "com.miempresa.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqpP3G5tXiA1EIui7p9dXGlnc9AzCTcCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
