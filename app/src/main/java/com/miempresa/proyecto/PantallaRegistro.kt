@@ -86,7 +86,7 @@ fun PantallaRegistro(navController: NavController) {
             )
 
             TextField(
-                label = { Text(text = "Email") },
+                label = { Text(text = "Correo electrónico") },
                 value = emailNuevo, onValueChange = { emailNuevo = it },
 
                 modifier = Modifier
@@ -95,7 +95,7 @@ fun PantallaRegistro(navController: NavController) {
             )
 
             TextField(
-                label = { Text(text = "Password") },
+                label = { Text(text = "Contraseña") },
                 value = passwordNuevo, onValueChange = { passwordNuevo = it },
                 modifier = Modifier
                     .padding(vertical = 8.dp)

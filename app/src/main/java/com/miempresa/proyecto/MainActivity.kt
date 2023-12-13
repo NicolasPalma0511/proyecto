@@ -73,7 +73,7 @@ fun MainScreen(navController: NavController) {
 
         Spacer(modifier = Modifier.height(20.dp))
         TextField(
-            label = { Text(text = "Usuario") },
+            label = { Text(text = "Correo electrónico") },
             value = email,
             onValueChange = { email = it })
 
